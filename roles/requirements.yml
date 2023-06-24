@@ -1,6 +1,6 @@
 ---
 
 - name : chrony 
-  src: git@github.com:Hananeouachour/chrony.git
+  src: https://github.com/Hananeouachour/chrony.git
   scm: git
   version: "V1.0.1"
