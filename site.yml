@@ -1,0 +1,6 @@
+---
+- name: playbook master
+  hosts: all
+
+  roles:
+    - chrony
