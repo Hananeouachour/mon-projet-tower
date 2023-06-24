@@ -1,0 +1,7 @@
+---
+- name: playbook master
+  hosts: node01,node02,node03
+  become: true
+
+  roles:
+    - dimon
